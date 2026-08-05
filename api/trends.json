@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T04:25:49.293700+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-08-06T07:59:10.225499+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 04时25分]"
+        },
+        {
+          "title": "美国副总统万斯：伊朗政权内部有人希望结束战争，也有极端分子希望战争持续下去。",
+          "url": "https://flash.jin10.com/detail/20260806075445316800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -69,9 +80,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
@@ -80,7 +102,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -113,7 +135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -168,7 +190,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -179,7 +201,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -223,7 +245,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -237,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
+          "url": "https://flash.jin10.com/detail/20260806070213899800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
@@ -256,7 +289,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -278,7 +311,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -300,7 +333,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -311,7 +344,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -344,7 +377,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -483,68 +516,73 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时25分]"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260806040522076800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
-          "url": "https://flash.jin10.com/detail/20260806040100669800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2446634",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时25分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时59分]"
+        },
+        {
+          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
+          "url": "https://flash.jin10.com/detail/20260806075402361800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://www.toutiao.com/trending/7670517654829927979/",
@@ -559,25 +597,13 @@
           "time_info": "[00时44分 ~ 04时25分]"
         },
         {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时25分]"
-        },
-        {
           "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
           "url": "https://flash.jin10.com/detail/20260806035154028800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -595,9 +621,97 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 04时25分]"
+        },
+        {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时59分]"
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040522076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
+          "url": "https://flash.jin10.com/detail/20260806040100669800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2446816",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E9%81%93%E6%8C%87%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时59分]"
+        },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
           "url": "https://flash.jin10.com/detail/20260806021109138800",
@@ -610,27 +724,26 @@
           "time_info": "02时20分"
         },
         {
-          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-          "url": "https://www.zhihu.com/question/2068265537105302957",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时25分]"
-        },
-        {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
           "url": "https://wallstreetcn.com/livenews/3145560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
+          "url": "https://wallstreetcn.com/livenews/3145632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
@@ -656,7 +769,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -667,7 +780,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
